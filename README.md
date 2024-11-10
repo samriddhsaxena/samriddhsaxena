@@ -14,13 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samriddhsaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samriddhsaxena" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samriddhsaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samriddhsaxena" height="30" width="40" /></a>
-<a href="https://kaggle.com/samriddhsaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samriddhsaxena" height="30" width="40" /></a>
-<a href="https://instagram.com/_.samriddh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.samriddh._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/samriddh saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samriddh saxena" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/samriddhsaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samriddhsaxena" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/samriddhsaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samriddhsaxena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
