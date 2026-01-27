@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samriddhsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="samriddhsaxena" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **samriddhsaxena@gmail.com**
 
